@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/OB-Admin-P/static/css/main.b18f09db.css",
+    "main.js": "/OB-Admin-P/static/js/main.a6f8a02e.js",
+    "static/js/453.eac224b4.chunk.js": "/OB-Admin-P/static/js/453.eac224b4.chunk.js",
+    "static/media/ibankinglg.png": "/OB-Admin-P/static/media/ibankinglg.bba8479d1f4b0b78634d.png",
+    "index.html": "/OB-Admin-P/index.html",
+    "main.b18f09db.css.map": "/OB-Admin-P/static/css/main.b18f09db.css.map",
+    "main.a6f8a02e.js.map": "/OB-Admin-P/static/js/main.a6f8a02e.js.map",
+    "453.eac224b4.chunk.js.map": "/OB-Admin-P/static/js/453.eac224b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b18f09db.css",
+    "static/js/main.a6f8a02e.js"
+  ]
+}
